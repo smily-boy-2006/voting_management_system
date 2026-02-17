@@ -3,3 +3,4 @@ The Voting Management System is a Python-based application that manages the elec
 On online,voting may be not secured and cause many problems like fake voting etc.
 to reduce those problems we introduce this system.
 This application is user friendly and very easy to use. Thankyou!
+https://github.com/smily-boy-2006/voting_management_system.git // This our clean python code for voting management system 
